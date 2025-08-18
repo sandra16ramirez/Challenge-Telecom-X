@@ -47,4 +47,4 @@ El análisis se organiza en cuatro etapas principales:
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://
+   git clone https://github.com/sandra16ramirez/Challenge-Telecom-X
