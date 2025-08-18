@@ -32,3 +32,19 @@ El análisis se organiza en cuatro etapas principales:
      - El **método de pago automático** reduce la probabilidad de churn.
      - Los **cargos totales bajos** se relacionan con clientes que abandonan, debido a poca antigüedad.
    - Recomendaciones estratégicas para la empresa.
+  
+   ## 📈 Tecnologías utilizadas
+
+- **Python 3**
+- **Pandas** → manipulación de datos  
+- **NumPy** → operaciones numéricas  
+- **Matplotlib / Seaborn** → visualización  
+- **Requests** → extracción de datos desde GitHub  
+
+---
+
+## 🚀 Cómo usar el proyecto
+
+1. Clonar este repositorio:
+   ```bash
+   git clone https://
